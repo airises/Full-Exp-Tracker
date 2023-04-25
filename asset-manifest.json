@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Full-Exp-Tracker/static/css/main.88d4d4c8.css",
+    "main.js": "/Full-Exp-Tracker/static/js/main.6118bd8a.js",
+    "index.html": "/Full-Exp-Tracker/index.html",
+    "main.88d4d4c8.css.map": "/Full-Exp-Tracker/static/css/main.88d4d4c8.css.map",
+    "main.6118bd8a.js.map": "/Full-Exp-Tracker/static/js/main.6118bd8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d4d4c8.css",
+    "static/js/main.6118bd8a.js"
+  ]
+}
